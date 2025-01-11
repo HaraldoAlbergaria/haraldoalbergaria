@@ -29,5 +29,5 @@ https://haraldoalbergaria.github.io/flickr-tasks
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://wakatime.com/@HaraldoFilho">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=HaraldoFilho&layout=compact&langs_count=6&hide=prolog&custom_title=Week%20Coding%20Stats&cache_seconds=1800" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=HaraldoFilho&layout=compact&langs_count=6&hide=prolog&custom_title=Last%20Year%20Coding%20Stats&cache_seconds=1800" />
 </a>
