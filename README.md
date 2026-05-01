@@ -22,6 +22,7 @@ https://haraldoalbergaria.github.io/flickr-map
 A collection of scripts to automate some tasks on photo sharing site Flickr™<br>
 https://haraldoalbergaria.github.io/flickr-tasks
 
+<!--
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,3 +32,4 @@ https://haraldoalbergaria.github.io/flickr-tasks
 <a href="https://wakatime.com/@HaraldoFilho">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=HaraldoFilho&layout=compact&langs_count=6&hide=prolog&custom_title=Last%20Year%20Coding%20Stats&cache_seconds=1800" />
 </a>
+-->
