@@ -12,7 +12,7 @@ https://the-map-group.top
 
 ### Shutter Notes
 Android app to take notes about shots while photographing<br>
-https://shutternotes.app
+https://shutternotes.github.io
 
 ### Flickr Map
 A script to generate a map for a Flickr™ photostream<br>
